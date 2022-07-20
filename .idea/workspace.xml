@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc51da68-e206-4b65-ab82-69cd3e927ef8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Loops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NestedIf">
+  <component name="RunManager" selected="Application.Loops">
     <configuration name="Homework3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework3" />
       <module name="SheGoesTech31_1" />
@@ -55,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfStatements" />
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops" />
       <module name="SheGoesTech31_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Loops" />
         <item itemvalue="Application.NestedIf" />
         <item itemvalue="Application.Homework4Leap" />
         <item itemvalue="Application.Homework3" />
         <item itemvalue="Application.Switch" />
-        <item itemvalue="Application.IfStatements" />
       </list>
     </recent_temporary>
   </component>
