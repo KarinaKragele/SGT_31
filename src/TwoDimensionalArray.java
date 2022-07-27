@@ -26,11 +26,24 @@ public class TwoDimensionalArray {
 
         //Number of columns in specific row
         System.out.println(names[0].length);
-        for(int i = 0; i < names.length; i++){
-            for(int j = 0; j< names[i].length; j++){
-                System.out.println(names[i][j]);
-            }
 
+        // i - rows
+        // j = columns
+        for(int i = 0; i < names.length; i++){
+            System.out.print("Row no. " + (i+1) + " ");
+            for(int j = 0; j< names[i].length; j++){
+                System.out.print(names[i][j] + " ");
+            }
+            System.out.println();
+
+        }
+
+        for(String [] tempNames : names){
+            System.out.print("Row - ");
+            for (String name : tempNames) {
+                System.out.print(name + " ");
+            }
+            System.out.println();
         }
     }
 }

@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc51da68-e206-4b65-ab82-69cd3e927ef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TwoDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/CreateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/HW6Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecturetasks/AverageGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecturetasks/SumAllElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecturetasks/CapitalQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecturetasks/NumberGrid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoDimensionalArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TwoDimensionalArray">
+  <component name="RunManager" selected="Application.CapitalQuiz">
     <configuration name="ArrayExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayExamples" />
       <module name="SheGoesTech31_1" />
@@ -68,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.CreateArray" />
+    <configuration name="CapitalQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecturetasks.CapitalQuiz" />
       <module name="SheGoesTech31_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.*" />
+          <option name="PATTERN" value="lecturetasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW6Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.HW6Arrays" />
+    <configuration name="NumberGrid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecturetasks.NumberGrid" />
       <module name="SheGoesTech31_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.*" />
+          <option name="PATTERN" value="lecturetasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CapitalQuiz" />
+        <item itemvalue="Application.NumberGrid" />
         <item itemvalue="Application.TwoDimensionalArray" />
-        <item itemvalue="Application.AverageGrade" />
-        <item itemvalue="Application.CreateArray" />
-        <item itemvalue="Application.HW6Arrays" />
         <item itemvalue="Application.ArrayExamples" />
+        <item itemvalue="Application.AverageGrade" />
       </list>
     </recent_temporary>
   </component>
