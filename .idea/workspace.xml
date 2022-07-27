@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc51da68-e206-4b65-ab82-69cd3e927ef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsBreakContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Homework5Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/PrintoutNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/CreateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/HW6Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecturetasks/AverageGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecturetasks/SumAllElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Homework1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Homework2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Homework3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework4Leap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Homework4Leap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayExamples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +47,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayExamples">
+  <component name="RunManager" selected="Application.TwoDimensionalArray">
     <configuration name="ArrayExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayExamples" />
       <module name="SheGoesTech31_1" />
@@ -59,22 +55,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CharExample" />
+    <configuration name="AverageGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecturetasks.AverageGrade" />
       <module name="SheGoesTech31_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecturetasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopsBreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopsBreakContinue" />
-      <module name="SheGoesTech31_1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintoutNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.PrintoutNumbers" />
+    <configuration name="CreateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.CreateArray" />
       <module name="SheGoesTech31_1" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +81,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework.Homework5Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Homework5Loops" />
+    <configuration name="HW6Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.HW6Arrays" />
+      <module name="SheGoesTech31_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoDimensionalArray" />
       <module name="SheGoesTech31_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoDimensionalArray" />
+        <item itemvalue="Application.AverageGrade" />
+        <item itemvalue="Application.CreateArray" />
+        <item itemvalue="Application.HW6Arrays" />
         <item itemvalue="Application.ArrayExamples" />
-        <item itemvalue="Application.LoopsBreakContinue" />
-        <item itemvalue="Application.CharExample" />
-        <item itemvalue="Application.PrintoutNumbers" />
-        <item itemvalue="Application.homework.Homework5Loops" />
       </list>
     </recent_temporary>
   </component>

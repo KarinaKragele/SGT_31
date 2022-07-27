@@ -29,7 +29,6 @@ public class ArrayExamples {
         //Print out all elements
         for(int i = 0; i < grades.length; i++){
             System.out.print(grades[i] + " ");
-
         }
     }
 }
