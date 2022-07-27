@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class ArrayExamples {
     public static void main(String[] args) {
         //Declare Array that will hold 3 String type variables
@@ -29,6 +31,8 @@ public class ArrayExamples {
         //Print out all elements
         for(int i = 0; i < grades.length; i++){
             System.out.print(grades[i] + " ");
+
+            System.out.println(Arrays.toString(grades));
         }
 
         //Example

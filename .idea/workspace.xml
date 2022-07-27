@@ -45,7 +45,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CapitalQuiz">
+  <component name="RunManager" selected="Application.ArrayExamples">
     <configuration name="ArrayExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayExamples" />
       <module name="SheGoesTech31_1" />
@@ -101,10 +101,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayExamples" />
         <item itemvalue="Application.CapitalQuiz" />
         <item itemvalue="Application.NumberGrid" />
         <item itemvalue="Application.TwoDimensionalArray" />
-        <item itemvalue="Application.ArrayExamples" />
         <item itemvalue="Application.AverageGrade" />
       </list>
     </recent_temporary>
