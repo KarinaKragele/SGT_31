@@ -1,3 +1,3 @@
 # SGT_31
 
-This is my personal learning repositary
+This is my personal learning repository

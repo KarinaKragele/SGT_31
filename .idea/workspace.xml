@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bc51da68-e206-4b65-ab82-69cd3e927ef8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,22 +43,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ChristmasTree">
+  <component name="RunManager" selected="Application.StringExample">
     <configuration name="ChristmasTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.ChristmasTree" />
-      <module name="SheGoesTech31_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW7CopyAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.HW7CopyAnArray" />
       <module name="SheGoesTech31_1" />
       <extension name="coverage">
         <pattern>
@@ -101,13 +90,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample" />
+      <module name="SheGoesTech31_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringExample" />
         <item itemvalue="Application.ChristmasTree" />
         <item itemvalue="Application.ReadTwoNumbers" />
         <item itemvalue="Application.Rf" />
         <item itemvalue="Application.HW7ReverseArrays" />
-        <item itemvalue="Application.HW7CopyAnArray" />
       </list>
     </recent_temporary>
   </component>
