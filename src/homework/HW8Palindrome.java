@@ -1,6 +1,4 @@
 package homework;
-
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class HW8Palindrome {
@@ -21,6 +19,6 @@ public class HW8Palindrome {
                 System.out.println(name + " is a palindrome");
                 break;
             }
-        }
+        } //WRONG solution
     }
 }

@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc51da68-e206-4b65-ab82-69cd3e927ef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PrintFormatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/HW8Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecturetasks/StringInputPractise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecturetasks/DateAndTimeExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecturetasks/RegularExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/HW8Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/HW8Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +47,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HW8Palindrome">
+  <component name="RunManager" selected="Application.RegularExpression">
+    <configuration name="DateAndTimeExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecturetasks.DateAndTimeExamples" />
+      <module name="SheGoesTech31_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecturetasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HW7ReverseArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.HW7ReverseArrays" />
       <module name="SheGoesTech31_1" />
@@ -71,22 +87,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintFormatting" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Palindrome" />
       <module name="SheGoesTech31_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExample" />
-      <module name="SheGoesTech31_1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringInputPractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecturetasks.StringInputPractise" />
+    <configuration name="RegularExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecturetasks.RegularExpression" />
       <module name="SheGoesTech31_1" />
       <extension name="coverage">
         <pattern>
@@ -100,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RegularExpression" />
+        <item itemvalue="Application.DateAndTimeExamples" />
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.HW8Palindrome" />
         <item itemvalue="Application.HW7ReverseArrays" />
-        <item itemvalue="Application.StringExample" />
-        <item itemvalue="Application.PrintFormatting" />
-        <item itemvalue="Application.StringInputPractise" />
       </list>
     </recent_temporary>
   </component>
