@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc51da68-e206-4b65-ab82-69cd3e927ef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/HW10MinAndMaxMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/HW9PersonalCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecturetasks/LeapYearInMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/CallingCarClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/CallingCarClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/CallingAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/CallingBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/CallingTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,33 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CallingCarClass2">
+  <component name="RunManager" selected="Application.CallingTriangle">
+    <configuration name="CallingAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.CallingAnimal" />
+      <module name="SheGoesTech31_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallingBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.CallingBook" />
+      <module name="SheGoesTech31_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CallingCarClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.CallingCarClass" />
       <module name="SheGoesTech31_1" />
@@ -75,46 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW10MinAndMaxMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.HW10MinAndMaxMethods" />
+    <configuration name="CallingTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.CallingTriangle" />
       <module name="SheGoesTech31_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.*" />
+          <option name="PATTERN" value="oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeapYearInMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecturetasks.LeapYearInMethod" />
-      <module name="SheGoesTech31_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecturetasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods" />
-      <module name="SheGoesTech31_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CallingTriangle" />
+        <item itemvalue="Application.CallingAnimal" />
+        <item itemvalue="Application.CallingBook" />
         <item itemvalue="Application.CallingCarClass2" />
         <item itemvalue="Application.CallingCarClass" />
-        <item itemvalue="Application.LeapYearInMethod" />
-        <item itemvalue="Application.HW10MinAndMaxMethods" />
-        <item itemvalue="Application.Methods" />
       </list>
     </recent_temporary>
   </component>

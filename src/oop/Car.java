@@ -13,11 +13,9 @@ public class Car {
     public void setBrand(String brand) {
         this.brand = brand;
     }
-
     public void setMaxSpeed(int maxSpeed) {
         this.maxSpeed = maxSpeed;
     }
-
     public void setColor(String color){
         this.color = color;
     }
@@ -26,11 +24,9 @@ public class Car {
     public String getBrand() {
         return brand;
     }
-
     public int getMaxSpeed() {
         return maxSpeed;
     }
-
     public String getColor(){
         return color;
     }
