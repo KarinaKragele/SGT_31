@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc51da68-e206-4b65-ab82-69cd3e927ef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/CallingAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/CallingBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/CallingTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/EnumExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/abstraction/AbstractClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/abstraction/CallingFish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/abstraction/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/abstraction/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/SubclassIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inner/InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/members/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/members/JobClassCalling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/members/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/members/Member.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +53,35 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CallingTriangle">
-    <configuration name="CallingAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.CallingAnimal" />
+  <component name="RunManager" selected="Application.EnumExample">
+    <configuration name="AbstractClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.abstraction.AbstractClassExample" />
+      <module name="SheGoesTech31_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallingFish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.abstraction.CallingFish" />
+      <module name="SheGoesTech31_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.EnumExample" />
       <module name="SheGoesTech31_1" />
       <extension name="coverage">
         <pattern>
@@ -62,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallingBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.CallingBook" />
+    <configuration name="InnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.inner.InnerClass" />
       <module name="SheGoesTech31_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.*" />
+          <option name="PATTERN" value="oop.inner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,38 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallingCarClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.CallingCarClass" />
+    <configuration name="JobClassCalling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.members.JobClassCalling" />
       <module name="SheGoesTech31_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CallingCarClass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.CallingCarClass2" />
-      <module name="SheGoesTech31_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CallingTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.CallingTriangle" />
-      <module name="SheGoesTech31_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.*" />
+          <option name="PATTERN" value="oop.members.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CallingTriangle" />
-        <item itemvalue="Application.CallingAnimal" />
-        <item itemvalue="Application.CallingBook" />
-        <item itemvalue="Application.CallingCarClass2" />
-        <item itemvalue="Application.CallingCarClass" />
+        <item itemvalue="Application.EnumExample" />
+        <item itemvalue="Application.CallingFish" />
+        <item itemvalue="Application.InnerClass" />
+        <item itemvalue="Application.AbstractClassExample" />
+        <item itemvalue="Application.JobClassCalling" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +165,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/oop/inheritance/Vehicle.java</url>
+          <line>17</line>
+          <properties class="oop.inheritance.Bike">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/homework/Homework5Loops.java</url>
