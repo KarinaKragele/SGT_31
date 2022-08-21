@@ -7,7 +7,7 @@ public class ArrayExamples {
 
         //How to set array's element values
         names[0] = "Karina";
-        names[1] = "Bahadir";
+        names[1] = "Toms";
         names[2] = "Tina";
 
         //How to get array' s elements value

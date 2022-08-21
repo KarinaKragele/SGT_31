@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc51da68-e206-4b65-ab82-69cd3e927ef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/EnumExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/abstraction/AbstractClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/abstraction/CallingFish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/abstraction/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/abstraction/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/SubclassIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/inner/InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/members/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/members/JobClassCalling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/members/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/members/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/HW11RockPaperScissors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/HW11RockPaperScissorsSpockLizard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayExamples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +45,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EnumExample">
-    <configuration name="AbstractClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.abstraction.AbstractClassExample" />
+  <component name="RunManager" selected="Application.HW11RockPaperScissorsSpockLizard">
+    <configuration name="ArrayExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExamples" />
+      <module name="SheGoesTech31_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW11RockPaperScissorsSpockLizard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.HW11RockPaperScissorsSpockLizard" />
       <module name="SheGoesTech31_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.abstraction.*" />
+          <option name="PATTERN" value="homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,51 +66,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallingFish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.abstraction.CallingFish" />
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators" />
       <module name="SheGoesTech31_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.abstraction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.EnumExample" />
+    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Switch" />
       <module name="SheGoesTech31_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.inner.InnerClass" />
+    <configuration name="homework.HW11RockPaperScissors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.HW11RockPaperScissors" />
       <module name="SheGoesTech31_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.inner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JobClassCalling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.members.JobClassCalling" />
-      <module name="SheGoesTech31_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.members.*" />
+          <option name="PATTERN" value="homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EnumExample" />
-        <item itemvalue="Application.CallingFish" />
-        <item itemvalue="Application.InnerClass" />
-        <item itemvalue="Application.AbstractClassExample" />
-        <item itemvalue="Application.JobClassCalling" />
+        <item itemvalue="Application.HW11RockPaperScissorsSpockLizard" />
+        <item itemvalue="Application.homework.HW11RockPaperScissors" />
+        <item itemvalue="Application.Operators" />
+        <item itemvalue="Application.ArrayExamples" />
+        <item itemvalue="Application.Switch" />
       </list>
     </recent_temporary>
   </component>
