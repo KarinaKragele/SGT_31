@@ -6,7 +6,6 @@ class Car extends Vehicle {
 
     boolean isAirConditioner = true;
 
-
     public static void main(String[] args) {
         Car maxDistance = new Car();
 
