@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc51da68-e206-4b65-ab82-69cd3e927ef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collections/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/vehicle/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/vehicle/CarCalling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/vehicle/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/vehicle/VehicleCalling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/TestingDBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/Try.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/maxdistance/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/maxdistance/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SheGoesTech31_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SheGoesTech31_1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +44,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MapExample">
+  <component name="RunManager" selected="Application.TestingDBConnection">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.maxdistance.Car" />
       <module name="SheGoesTech31_1" />
@@ -74,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.maxdistance.Vehicle" />
+    <configuration name="TestingDBConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="db.TestingDBConnection" />
       <module name="SheGoesTech31_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.maxdistance.*" />
+          <option name="PATTERN" value="db.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleCalling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.vehicle.VehicleCalling" />
+    <configuration name="Try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="db.Try" />
       <module name="SheGoesTech31_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.vehicle.*" />
+          <option name="PATTERN" value="db.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestingDBConnection" />
+        <item itemvalue="Application.Try" />
         <item itemvalue="Application.MapExample" />
         <item itemvalue="Application.homework.vehicle.CarCalling" />
-        <item itemvalue="Application.oop.vehicle.VehicleCalling" />
         <item itemvalue="Application.Car" />
-        <item itemvalue="Application.Vehicle" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +165,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/db/Try.java</url>
+          <line>3</line>
+          <properties class="db.Try" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/homework/Homework5Loops.java</url>
