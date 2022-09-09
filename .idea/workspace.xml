@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc51da68-e206-4b65-ab82-69cd3e927ef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/db/TestingDBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/db/Try.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/Users.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SheGoesTech31_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SheGoesTech31_1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +42,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestingDBConnection">
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.maxdistance.Car" />
-      <module name="SheGoesTech31_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.maxdistance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Users">
     <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.MapExample" />
       <module name="SheGoesTech31_1" />
@@ -97,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Users" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="db.Users" />
+      <module name="SheGoesTech31_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="homework.vehicle.CarCalling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.vehicle.CarCalling" />
       <module name="SheGoesTech31_1" />
@@ -112,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Users" />
         <item itemvalue="Application.TestingDBConnection" />
         <item itemvalue="Application.Try" />
         <item itemvalue="Application.MapExample" />
         <item itemvalue="Application.homework.vehicle.CarCalling" />
-        <item itemvalue="Application.Car" />
       </list>
     </recent_temporary>
   </component>
